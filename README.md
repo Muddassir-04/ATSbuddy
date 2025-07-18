@@ -21,7 +21,7 @@ ATSBuddy is an AI-powered resume analyzer that compares your resume with a job d
 
 ## 🚀 Live Demo
 
-👉 [Click here to try ATSBuddy on Streamlit](https://your-streamlit-link.streamlit.app) *(Update after deployment)*
+👉 [Click here to try ATSBuddy on Streamlit](https://atsbuddy.streamlit.app/) 
 
 ---
 
