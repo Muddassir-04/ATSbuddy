@@ -1,3 +1,6 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://atsbuddy.streamlit.app)
+
+
 # 🤖 ATSBuddy - Resume Keyword Analyzer
 
 ATSBuddy is an AI-powered resume analyzer that compares your resume with a job description and calculates the keyword match percentage. It simulates how an Applicant Tracking System (ATS) might evaluate your resume.
